@@ -1,3 +1,8 @@
+/*
+Package sspi provides a authentication handler which utilizes Window's SSPI API to create and
+validate tokens for NTLM authentication
+*/
+
 package sspi
 
 import (
